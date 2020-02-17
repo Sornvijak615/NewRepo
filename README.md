@@ -1,2 +1,2 @@
 # NewRepo
-Hi my nickname is Min
+Hi my nickname is Min. My Fristname Sornvijak
