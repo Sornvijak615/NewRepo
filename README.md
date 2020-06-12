@@ -4,4 +4,5 @@ Hi my nickname is Min
 Hi my nickname is Min. My Fristname Sornvijak
 Sornvijak
 # Image
-https://github.com/Sornvijak615/NewRepo/issues/2#issue-637562438
+![RGB LED](https://user-images.githubusercontent.com/61122037/84479266-d96f4a80-acbc-11ea-9c46-602e512ab5d4.png)
+
